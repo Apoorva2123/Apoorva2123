@@ -16,36 +16,10 @@
 
 ### 📈 GitHub Activity
 
-<div style="background: #1a1a1a; border: 1px solid #444; border-radius: 12px; padding: 24px; max-width: 600px;">
-  <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 24px;">
-    <span style="font-size: 32px;">📊</span>
-    <h2 style="color: #fff; margin: 0; font-family: Arial, sans-serif;">GitHub Activity</h2>
-  </div>
-  
-  <h3 style="color: #fff; font-family: Arial, sans-serif; margin-bottom: 16px;">
-    Apoorva Thirukazhukundram Shakila Raja's GitHub Stats
-  </h3>
-  
-  <div style="display: grid; grid-template-columns: 1fr auto; gap: 24px; align-items: start;">
-    <div style="display: flex; flex-direction: column; gap: 12px;">
-      <div style="display: flex; align-items: center; gap: 8px; color: #fff; font-family: Arial, sans-serif;">
-        <span>⭐</span>
-        <span>Total Stars Earned:</span>
-        <span style="margin-left: auto; font-weight: bold;">0</span>
-      </div>
-      
-      
-  </div>
-  
-  <div style="margin-top: 24px;">
-    <h3 style="color: #fff; font-family: Arial, sans-serif; margin-bottom: 12px;">📈 GitHub Activity</h3>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=dark" 
-      alt="Apoorva's GitHub stats"
-      style="max-width: 100%; height: auto; border-radius: 8px;"
-    />
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=dark" width="450" />
+</p>
+
 
 ### 🛠️ Languages and Tools:
 
