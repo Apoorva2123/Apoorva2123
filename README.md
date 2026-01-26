@@ -17,9 +17,11 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=dark" width="450" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=dark" 
+    width="650"
+  />
 </p>
-
 
 ### 🛠️ Languages and Tools:
 
