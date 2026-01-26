@@ -1,4 +1,4 @@
-# Hi 👋, I'm Apoorva
+# Hi 👋, I'm Apoorva Thirukazhukundram Shakila Raja
 
 🎓 Data Science Student | 📊 Analytics & ML Enthusiast  
 💡 Passionate about transforming data into actionable insights
