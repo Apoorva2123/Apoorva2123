@@ -16,7 +16,8 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 
 ### 🛠️ Languages and Tools:
 
