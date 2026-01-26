@@ -14,6 +14,13 @@
 - Create interactive dashboards to communicate results clearly  
 - Translate business problems into data-driven solutions
 
+### 📈 GitHub Activity
+
+![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva2123&layout=compact&theme=dark)
+
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
