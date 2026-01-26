@@ -8,6 +8,12 @@
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/apoorvatsr)
 
+### 🚀 What I Do
+- Analyze real-world datasets to uncover patterns and insights  
+- Build machine learning models for prediction and classification  
+- Create interactive dashboards to communicate results clearly  
+- Translate business problems into data-driven solutions
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
