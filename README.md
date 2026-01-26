@@ -16,9 +16,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Contribution Snake](https://github.com/Apoorva2123/Apoorva2123/blob/output/github-contribution-grid-snake.svg)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🛠️ Languages and Tools:
 
