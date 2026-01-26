@@ -16,7 +16,6 @@
 
 ### 📈 GitHub Activity
 
-<!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Apoorva2123&theme=tokyonight&hide_border=true)
 
 
