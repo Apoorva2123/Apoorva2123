@@ -20,8 +20,10 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=dark" 
     width="650"
+    length="780"
   />
 </p>
+
 
 ### 🛠️ Languages and Tools:
 
