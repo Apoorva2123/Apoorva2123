@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+Student;CS+Teaching+Assistant;Analytics+%26+Machine+Learning+Enthusiast;AI+enthusiast,+experimenting+with+latest+technologies;Turning+Data+into+Insights+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+Student;CS+Teaching+Assistant;Analytics+%26+Machine+Learning+Enthusiast;AI+enthusiast,+exploring+latest+AI;Turning+Data+into+Insights+Every+Day" />
 </p>
 
 
