@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Apoorva
 
-<!--
-**Apoorva2123/Apoorva2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student | 📊 Analytics & ML Enthusiast  
+💡 Passionate about transforming data into actionable insights
 
-Here are some ideas to get you started:
+- 📫 How to reach me: **aputsr02@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/apoorvatsr)
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,excel,java,sql,c,git,github,mysql," />
+</p>
+
+### 📊 GitHub Stats
+
+![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=dark)
+
