@@ -14,7 +14,5 @@
   <img src="https://skillicons.dev/icons?i=python,r,excel,java,sql,c,git,github,mysql," />
 </p>
 
-### 📊 GitHub Stats
 
-![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=dark)
 
