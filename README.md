@@ -16,7 +16,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Apoorva's GitHub Stats" width="100%">
 
 
 ### 🛠️ Languages and Tools:
