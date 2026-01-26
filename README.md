@@ -1,7 +1,13 @@
-# Hi 👋, I'm Apoorva Thirukazhukundram Shakila Raja
+<h1 align="center">Hi 👋, I'm Apoorva Thirukazhukundram Shakila Raja</h1>
 
-🎓 Data Science Student | 📊 Analytics & ML Enthusiast  
-💡 Passionate about transforming data into actionable insights
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+Student;CS+Teaching+Assistant;Analytics+%26+Machine+Learning+Enthusiast;Turning+Data+into+Insights+Every+Day" />
+</p>
+
+<p align="center">
+  🎓 Data Science Student &nbsp;|&nbsp; 📊 Analytics & ML &nbsp;|&nbsp; 💡 Curious by nature
+</p>
+
 
 - 📫 How to reach me: **aputsr02@gmail.com**
 
@@ -16,8 +22,6 @@
 
 ### 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva2123&theme=github_dark)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Apoorva2123&theme=github-dark&hide_border=true)
 
 ### 🛠️ Languages and Tools:
 
