@@ -14,9 +14,10 @@
 - Create interactive dashboards to communicate results clearly  
 - Translate business problems into data-driven solutions
 
-### 📈 GitHub Activity
+### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Apoorva2123&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Apoorva2123&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 ### 🛠️ Languages and Tools:
