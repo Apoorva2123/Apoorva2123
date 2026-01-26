@@ -17,6 +17,8 @@
 ### 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva2123&theme=github_dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Apoorva2123&theme=dark&hide_border=true)
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
