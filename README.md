@@ -34,34 +34,7 @@
         <span style="margin-left: auto; font-weight: bold;">0</span>
       </div>
       
-      <div style="display: flex; align-items: center; gap: 8px; color: #fff; font-family: Arial, sans-serif;">
-        <span>🔄</span>
-        <span>Total Commits (last year):</span>
-        <span style="margin-left: auto; font-weight: bold;">48</span>
-      </div>
       
-      <div style="display: flex; align-items: center; gap: 8px; color: #fff; font-family: Arial, sans-serif;">
-        <span>🔀</span>
-        <span>Total PRs:</span>
-        <span style="margin-left: auto; font-weight: bold;">0</span>
-      </div>
-      
-      <div style="display: flex; align-items: center; gap: 8px; color: #fff; font-family: Arial, sans-serif;">
-        <span>⚠️</span>
-        <span>Total Issues:</span>
-        <span style="margin-left: auto; font-weight: bold;">0</span>
-      </div>
-      
-      <div style="display: flex; align-items: center; gap: 8px; color: #fff; font-family: Arial, sans-serif;">
-        <span>📅</span>
-        <span>Contributed to (last year):</span>
-        <span style="margin-left: auto; font-weight: bold;">2</span>
-      </div>
-    </div>
-    
-    <div style="width: 120px; height: 120px; border-radius: 50%; border: 3px solid #444; display: flex; align-items: center; justify-content: center; background: #2a2a2a;">
-      <span style="color: #888; font-size: 48px; font-family: monospace;">C</span>
-    </div>
   </div>
   
   <div style="margin-top: 24px;">
