@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  💻 Data Science Enthusiast &nbsp;|&nbsp; 🔍 Data Explorer & Analyst &nbsp;|&nbsp; 🚀 Building with Data & AI &nbsp;|&nbsp;💡 Curious by nature and Lifelong Learner &nbsp;|&nbsp;🏆Passionate Innovator
+  🔍 Data Explorer & Analyst &nbsp;|&nbsp; 🚀 Building with Data & AI &nbsp;|&nbsp;💡 Curious by nature and Lifelong Learner &nbsp;|&nbsp;🏆Passionate Innovator
 </p>
 
 
