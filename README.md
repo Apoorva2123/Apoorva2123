@@ -16,8 +16,8 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Apoorva2123&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva2123&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Contribution Snake](https://github.com/Apoorva2123/Apoorva2123/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### 🛠️ Languages and Tools:
