@@ -15,8 +15,7 @@
 - Translate business problems into data-driven solutions
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Apoorva2123&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva2123&theme=github_dark)
 
 ### 🛠️ Languages and Tools:
 
