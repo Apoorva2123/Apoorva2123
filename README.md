@@ -21,7 +21,7 @@
 
 ### 🚀 What I Do
 - Turn messy datasets into structured insights using EDA, feature cleaning, and visual diagnostics  
-- Build machine learning models for prediction and classification  
+- I don’t just “build models” — I explain them, test them, and document them  
 - Create interactive dashboards to communicate results clearly  
 - Translate business problems into data-driven solutions
 
