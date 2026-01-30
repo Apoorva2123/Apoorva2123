@@ -28,7 +28,8 @@
 
 🗣️ **English** - Fluent  
 🗣️ **Tamil** - Native Speaker  
-🗣️ **Hindi** - Conversational
+🗣️ **French** - Conversational
+🗣️ **Spanish** - Beginner
 
 ### 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva2123&theme=github_dark)
