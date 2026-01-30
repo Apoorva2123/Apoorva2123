@@ -2,6 +2,11 @@
   Hi 👋, I'm Apoorva Thirukazhukundram Shakila Raja
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=800&color=4F8EF7&center=true&vCenter=true&width=700&lines=Learning-driven+data+science%2C+built+to+be+understood.;Models+with+explanations%2C+not+black+boxes.;Clarity+over+complexity%2C+always." />
+</p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+Student;CS+Teaching+Assistant;Analytics+%26+Machine+Learning+Enthusiast;AI+enthusiast,+exploring+latest+AI;Turning+Data+into+Insights+Every+Day" />
