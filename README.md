@@ -22,8 +22,9 @@
 ### 🚀 What I Do
 - Turn messy datasets into structured insights using EDA, feature cleaning, and visual diagnostics  
 - I don’t just “build models” — I explain them, test them, and document them  
-- Create interactive dashboards to communicate results clearly  
-- Translate business problems into data-driven solutions
+- Create interactive dashboards to communicate results clearly
+-  
+- Communicate results so non-technical and technical audiences both understand
 
 ### 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva2123&theme=github_dark)
