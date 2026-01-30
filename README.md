@@ -19,6 +19,10 @@
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/apoorvatsr)
 
+
+![Visitor Count](https://profile-counter.glitch.me/Apoorva2123/count.svg)
+
+
 ### 🚀 What I Do
 - Turn messy datasets into structured insights using EDA, feature cleaning, and visual diagnostics  
 - I don’t just “build models” — I explain them, test them, and document them  
