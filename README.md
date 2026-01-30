@@ -23,7 +23,7 @@
 - Turn messy datasets into structured insights using EDA, feature cleaning, and visual diagnostics  
 - I don’t just “build models” — I explain them, test them, and document them  
 - Create interactive dashboards to communicate results clearly
--  
+- Care deeply about clarity, fundamentals, and reasoning, not just accuracy
 - Communicate results so non-technical and technical audiences both understand
 
 ### 📊 GitHub Stats
