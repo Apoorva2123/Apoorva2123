@@ -24,10 +24,11 @@
 - Care deeply about clarity, fundamentals, and reasoning, not just accuracy
 - Communicate results so non-technical and technical audiences both understand
 
-## 🌐 Speaking
-![English](https://img.shields.io/badge/English-Fluent-blue?style=flat-square)
-![Tamil](https://img.shields.io/badge/Tamil-Native-green?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Conversational-orange?style=flat-square)
+### 🌍 Languages I Speak
+
+🗣️ **English** - Fluent  
+🗣️ **Tamil** - Native Speaker  
+🗣️ **Hindi** - Conversational
 
 ### 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva2123&theme=github_dark)
