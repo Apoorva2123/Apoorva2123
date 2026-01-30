@@ -7,19 +7,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+Student;CS+Teaching+Assistant;Analytics+%26+Machine+Learning+Enthusiast;AI+enthusiast,+exploring+latest+AI;Turning+Data+into+Insights+Every+Day" />
 </p>
 
-
-
 <p align="center">
   🔍 Data Explorer & Analyst &nbsp;|&nbsp; 🚀 Building with Data & AI &nbsp;|&nbsp;💡 Curious by nature and Lifelong Learner &nbsp;|&nbsp;🏆Passionate Innovator
 </p>
-
 
 - 📫 How to reach me: **aputsr02@gmail.com**
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/apoorvatsr)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=Apoorva2123.Apoorva2123)
 
 
 ### 🚀 What I Do
@@ -28,6 +23,11 @@
 - Create interactive dashboards to communicate results clearly
 - Care deeply about clarity, fundamentals, and reasoning, not just accuracy
 - Communicate results so non-technical and technical audiences both understand
+
+## 🌐 Speaking
+![English](https://img.shields.io/badge/English-Fluent-blue?style=flat-square)
+![Tamil](https://img.shields.io/badge/Tamil-Native-green?style=flat-square)
+![Hindi](https://img.shields.io/badge/Hindi-Conversational-orange?style=flat-square)
 
 ### 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva2123&theme=github_dark)
