@@ -25,10 +25,10 @@
 - Communicate results so non-technical and technical audiences both understand
 
 ### 🌍 Languages I Speak
-- 🇬🇧 English - Fluent
-- 🇮🇳 Tamil - Native
-- 🇬🇧 French - Conversational
-- 🇬🇧 Spanish - Beginner
+- English - Fluent
+- Tamil - Native
+- French - Conversational
+- Spanish - Beginner
 
 ### 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva2123&theme=github_dark)
